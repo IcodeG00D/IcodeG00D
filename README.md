@@ -47,7 +47,8 @@ Description of what the project does and why it's cool.
 
 ## Fun Facts
 
-- 🌱 I'm currently learning [Python].![img icons8](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/0462ca21-c22e-47a7-8487-3e98794c7e50)
+- 🌱 I'm currently learning [Python]![download](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/88f69b89-d098-4914-9825-7e286b8aa94f)
+
 
 - 🎶 I love to code with [My Spotify] playing in the background.![img icons8](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/ffcc5330-ee46-4724-ac53-452771aa3c07)
 
