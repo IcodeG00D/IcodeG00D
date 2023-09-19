@@ -1,5 +1,8 @@
 # <Hello World !>,KUSHAGRA PATHAK 👋
-![photo-1511367461989-f85a21fda167](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/d801ee59-b3ab-4134-9d80-b705636dc519)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 
 ### This Profile Holder
@@ -47,10 +50,13 @@ Description of what the project does and why it's cool.
 
 ## Fun Facts
 
-- 🌱 I'm currently learning [Python]![download](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/88f69b89-d098-4914-9825-7e286b8aa94f)
+- 🌱 I'm currently learning [Python]  ![download](https://o.remove.bg/downloads/e5e213da-9b47-4261-8d36-41492d536a35/269034074-0462ca21-c22e-47a7-8487-3e98794c7e50-removebg-preview.png)
 
 
-- 🎶 I love to code with [My Spotify] playing in the background.![img icons8](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/ffcc5330-ee46-4724-ac53-452771aa3c07)
+- 🎶 I love to code with [My Spotify] playing in the background  ![download](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/a4f3b72d-8d87-4cd1-a3a9-f9f9c1a364bd)
+.  
+
+
 
 - 🌄 When I'm not coding, you can find me [BeatBoxing and Music].
 
