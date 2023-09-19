@@ -1,6 +1,5 @@
 # <Hello World !>,KUSHAGRA PATHAK 👋
 
-KUSHAGRA PATHAK(https://unsplash.com/photos/2LowviVHZ-E)
 
 ### This Profile Holder
 is a passionate developer with a love for coding and innovation, 🚀
