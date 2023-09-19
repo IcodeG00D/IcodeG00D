@@ -1,8 +1,9 @@
-# ROOTS:<Hello, World> 👋
+# <Hello World !>,KUSHAGRA PATHAK 👋
 
-![Your Name](https://github.com/yourusername.png)
+KUSHAGRA PATHAK(photo-1511367461989-f85a21fda167.jpeg)
 
-I'm [Your Name], a passionate developer with a love for coding and innovation. 🚀
+### This Profile Holder
+is a passionate developer with a love for coding and innovation, 🚀
 
 ## About Me
 
