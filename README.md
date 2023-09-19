@@ -1,9 +1,5 @@
 # <Hello World !>,KUSHAGRA PATHAK 👋
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
+![Visitor Count](https://profile-counter.glitch.me//count.svg)
 
 ### This Profile Holder
 is a passionate developer with a love for coding and innovation, 🚀
