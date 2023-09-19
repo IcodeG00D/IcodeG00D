@@ -1,4 +1,5 @@
 # <Hello World !>,KUSHAGRA PATHAK 👋
+![photo-1511367461989-f85a21fda167](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/d801ee59-b3ab-4134-9d80-b705636dc519)
 
 
 ### This Profile Holder
@@ -40,14 +41,16 @@ Description of what the project does and why it's cool.
 
 ## Let's Connect
 
-- 📫 Reach me at [your.email@example.com](mailto:your.email@example.com)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername)
-- 🐦 Follow me on [Twitter](https://twitter.com/yourusername)
+- 📫 Reach me at [your.email@example.com](mailto:kushagrapathak002@gmail.com)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/kushagra-pathak-8b6390252/)
+  
 
 ## Fun Facts
 
-- 🌱 I'm currently learning [Something Interesting].
-- 🎶 I love to code with [Favorite Music] playing in the background.
-- 🌄 When I'm not coding, you can find me [Hobby or Interest].
+- 🌱 I'm currently learning [Python].![img icons8](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/0462ca21-c22e-47a7-8487-3e98794c7e50)
+
+- 🎶 I love to code with [My Spotify] playing in the background.![img icons8](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/ffcc5330-ee46-4724-ac53-452771aa3c07)
+
+- 🌄 When I'm not coding, you can find me [BeatBoxing and Music].
 
 Thanks for stopping by! Feel free to explore my repositories, and let's build amazing things together. 😄
