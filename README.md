@@ -23,7 +23,7 @@ And many more! I'm always learning and experimenting.
 
 Here are some of my favorite projects:
 
-### [Project 1 Name](https://github.com/yourusername/project1)
+### [Image-Captioning-Using-CNN-and-LSTM](https://github.com/IcodeG00D/Image-Captioning-Using-CNN-and-LSTM.git)
 
 ![Project 1](https://github.com/yourusername/project1/raw/main/screenshot.png)
 
