@@ -16,7 +16,7 @@ is a passionate developer with a love for coding and innovation, 🚀
 Here are some of the technologies I work with:
 
 ![Tech Stack](https://img.shields.io/badge/-Python-yellowgreen?style=flat&logo=python)
-![Tech Stack](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+![Tech Stack](https://img.shields.io/badge/C++-%3Ccolor%3E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 And many more! I'm always learning and experimenting.
 
 ## My Projects
@@ -25,15 +25,14 @@ Here are some of my favorite projects:
 
 ### [Image-Captioning-Using-CNN-and-LSTM](https://github.com/IcodeG00D/Image-Captioning-Using-CNN-and-LSTM.git)
 
-![Project 1](https://github.com/yourusername/project1/raw/main/screenshot.png)
+This project demonstrates how to build an image captioning model using TensorFlow. The model combines a pre-trained Convolutional Neural Network (CNN) for image feature extraction and a Long Short-Term Memory (LSTM) network for generating captions.
 
-Description of what the project does and why it's cool.
+### [Chrome-Extension](https://github.com/IcodeG00D/Chrome-Extension.git)
 
-### [Project 2 Name](https://github.com/yourusername/project2)
+Voice Tab Switcher is a Chrome extension that allows seamless tab navigation using voice commands. With this extension, you can switch to the next or previous tab by simply speaking commands like "Change next" and "Change back". This enhances productivity by minimizing the need for manual tab management.
 
-![Project 2](https://github.com/yourusername/project2/raw/main/screenshot.png)
-
-Description of what the project does and why it's cool.
+### [Brute-Force](https://github.com/IcodeG00D/Brute-Force.git)
+This project is a real-time brute force image search application that searches for related images of objects captured by a camera. It leverages computer vision techniques to find matching images from a predefined dataset.
 
 ## Let's Connect
 
