@@ -7,7 +7,7 @@ is a passionate developer with a love for coding and innovation, 🚀
 ## About Me
 
 - 🌟 Learner becoming developer with a focus on updated skills.
-- 🎓 Computer Science graduate from Amity University.
+- 🎓 Computer Science graduate .
 - 💡 Always exploring new technologies .
 - 🌐 Love to witness innovation and experiments in tech
 
@@ -42,7 +42,7 @@ This project is a real-time brute force image search application that searches f
 
 ## Fun Facts
 
-- 🌱 I'm currently learning Python ![Python](https://img.shields.io/badge/Python-<color>?style=for-the-badge&logo=python&logoColor=white)
+- 🌱 I'm currently learning Python !! (Moving Toward Data Analytics)
 
 
 - 🎶 I love to code with My Spotify  ![download](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/a4f3b72d-8d87-4cd1-a3a9-f9f9c1a364bd) 
