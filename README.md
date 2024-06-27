@@ -42,7 +42,7 @@ This project is a real-time brute force image search application that searches f
 
 ## Fun Facts
 
-- 🌱 I'm currently learning Python ![download](https://o.remove.bg/downloads/e5e213da-9b47-4261-8d36-41492d536a35/269034074-0462ca21-c22e-47a7-8487-3e98794c7e50-removebg-preview.png)
+- 🌱 I'm currently learning Python ![Python](https://img.shields.io/badge/Python-<color>?style=for-the-badge&logo=python&logoColor=white)
 
 
 - 🎶 I love to code with My Spotify  ![download](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/a4f3b72d-8d87-4cd1-a3a9-f9f9c1a364bd) 
