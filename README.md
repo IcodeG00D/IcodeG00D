@@ -2,8 +2,7 @@
 ## KUSHAGRA PATHAK here ! 👋
 
 
-### This Profile Holder
-is a passionate developer with a love for coding and innovation, 🚀
+This Profile Holder is a passionate developer with a love for coding and innovation, 🚀
 
 ## About Me
 
