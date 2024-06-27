@@ -15,7 +15,7 @@ is a passionate developer with a love for coding and innovation, 🚀
 
 Here are some of the technologies I work with:
 
-![Tech Stack](https://img.shields.io/badge/-Python-yellowgreen?style=flat&logo=python)
+![Tech Stack](https://img.shields.io/badge/Python-<color>?style=for-the-badge&logo=python&logoColor=white)
 ![Tech Stack](https://img.shields.io/badge/C++-%3Ccolor%3E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 And many more! I'm always learning and experimenting.
 
