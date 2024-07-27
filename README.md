@@ -1,5 +1,5 @@
 # <Hello World !>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ## KUSHAGRA PATHAK here ! 👋
 
 
