@@ -14,10 +14,9 @@ This Profile Holder is a passionate developer with a love for coding and innovat
 
 ## Tech Stack
 
-Here are some of the technologies I work with:
+Here is my amazing tool I work with:
 
 ![Tech Stack](https://img.shields.io/badge/Python-<color>?style=for-the-badge&logo=python&logoColor=white)
-![Tech Stack](https://img.shields.io/badge/C++-%3Ccolor%3E?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 And many more! I'm always learning and experimenting.
 
 ## My Projects
