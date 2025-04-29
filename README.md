@@ -15,13 +15,15 @@ This Profile Holder is a passionate developer with a love for coding and innovat
 ## Tech Stack
 
 Here is my amazing tool I work with:
-
-![Tech Stack](https://img.shields.io/badge/Python-<color>?style=for-the-badge&logo=python&logoColor=white)
+PYTHON / CLOUD / DATA ANALYSIS / DATA VISUALIZATION / NETWORKING 
+PANDAS,NUMPY,MATPLOTLIB,POWERBI,AWS...
 And many more! I'm always learning and experimenting.
 
 ## My Projects
 
 Here are some of my favorite projects:
+### [RFM Analysis](https://github.com/IcodeG00D/RFM-Analysis-Consumer-Behavior)
+This project applies RFM (Recency, Frequency, Monetary) Analysis to segment customers based on their purchase behavior. It's a smart way to identify high-value customers, inactive ones, and plan targeted marketing strategies.
 
 ### [Image-Captioning-Using-CNN-and-LSTM](https://github.com/IcodeG00D/Image-Captioning-Using-CNN-and-LSTM.git)
 
@@ -31,8 +33,7 @@ This project demonstrates how to build an image captioning model using TensorFlo
 
 Voice Tab Switcher is a Chrome extension that allows seamless tab navigation using voice commands. With this extension, you can switch to the next or previous tab by simply speaking commands like "Change next" and "Change back". This enhances productivity by minimizing the need for manual tab management.
 
-### [Brute-Force](https://github.com/IcodeG00D/Brute-Force.git)
-This project is a real-time brute force image search application that searches for related images of objects captured by a camera. It leverages computer vision techniques to find matching images from a predefined dataset.
+
 
 ## Let's Connect
 
@@ -42,7 +43,7 @@ This project is a real-time brute force image search application that searches f
 
 ## Fun Facts
 
-- 🌱 I'm currently learning Python !! (Moving Toward Data Analytics)
+- 🌱 Passionate Data Analyst
 
 
 - 🎶 I love to code with My Spotify  ![download](https://github.com/IcodeG00D/IcodeG00D/assets/131690273/a4f3b72d-8d87-4cd1-a3a9-f9f9c1a364bd) 
