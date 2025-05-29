@@ -2,7 +2,7 @@
 
 ## I'm Kushagra Pathak
 
-A passionate and curious **Developer** & **Data Analyst** with a strong foundation in computer science, cloud technologies, and data-driven innovation. I thrive on solving real-world problems through clean code, analytical thinking, and continuous learning.
+A passionate and curious **Developer** with a strong foundation in computer science, cloud technologies, and data-driven innovation. I thrive on solving real-world problems through clean code,integrating techs ,analytical thinking,Building logics, and continuous learning.
 
 ---
 
@@ -19,7 +19,7 @@ A passionate and curious **Developer** & **Data Analyst** with a strong foundati
 ## 🛠️ Skills & Tech Stack
 
 **Programming & Scripting**  
-`Python`, `JavaScript`, `SQL`, `Bash`
+`Python`, `JavaScript`, `SQL`, `Bash`, `Prompt Engineering`
 
 **Data Analysis & Visualization**  
 `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Power BI`, `Excel`
@@ -28,7 +28,7 @@ A passionate and curious **Developer** & **Data Analyst** with a strong foundati
 `TensorFlow`, `Scikit-learn`, `OpenCV`, `CNN`, `LSTM`
 
 **Cloud & DevOps**  
-`AWS (EC2, S3, Lambda)`, `Git`, `Docker`, `Linux`, `Networking`
+`AWS (Cloud Foundations, Cloud Security)`, `Docker`, `Git`, `Linux`, `Networking`, `Google Cloud`
 
 **Tools & Platforms**  
 `Jupyter`, `VS Code`, `GitHub`, `Google Colab`, `Postman`, `Chrome Extensions`
@@ -51,12 +51,18 @@ Designed an interactive dashboard for analyzing monthly sales trends, regional p
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- 🥇 Completed **AWS Cloud Practitioner** and **Power BI** certification  
-- 📈 Delivered multiple insights-driven dashboards for academic & freelance projects  
-- 🧠 Trained custom AI models for image classification and time-series predictions  
-- 🎯 Ranked among top contributors in collaborative GitHub repositories
+- 🥇 **Bronze Medallist Diploma Computer Science**
+- 🥇 **Python Data Analysis** – LinkedIn Learning  
+- 🥈 **Python Certificate** – HackerRank  
+- ☁️ **AWS Cloud Foundations & Cloud Security Foundations** – AWS Academy  
+- 🔒 **Networking Essentials** – Cisco Networking Academy  
+- 🐳 **Introduction to Docker** – Google Cloud  
+- 🧪 **Pandas & NumPy Foundations** – Self-paced Projects  
+- ⚡ **Prompt Engineering for Developers** – DeepLearning.AI  
+- 📈 Delivered insights-driven dashboards and AI models for academic & freelance projects  
+
 
 ---
 
@@ -64,7 +70,7 @@ Designed an interactive dashboard for analyzing monthly sales trends, regional p
 
 - 📧 Email: [kushagrapathak002@gmail.com](mailto:kushagrapathak002@gmail.com)  
 - 💼 LinkedIn: [Kushagra Pathak](https://www.linkedin.com/in/kushagra-pathak-8b6390252/)  
-- 🌐 Portfolio Website: *(Coming soon)*
+
 
 ---
 
