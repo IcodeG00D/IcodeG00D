@@ -43,12 +43,11 @@ Segmented customers using **Recency, Frequency, and Monetary** values to optimiz
 ### 🖼️ [Image Captioning Using CNN & LSTM](https://github.com/IcodeG00D/Image-Captioning-Using-CNN-and-LSTM.git)  
 Developed an end-to-end image captioning model using **pre-trained CNN** for image feature extraction and **LSTM** for language generation. Built with TensorFlow & Keras.
 
-### 🗣️ [Voice Tab Switcher - Chrome Extension](https://github.com/IcodeG00D/Chrome-Extension.git)  
-Built a voice-controlled Chrome extension to enhance tab navigation using speech commands like “Change next” or “Change back”. Improved browser productivity with minimal UI friction.
+### 🗣️ [Virtual Mouse Using hand gesture](https://github.com/IcodeG00D/Virtual-Mouse-Using-Mediapipe))  
+]Built a Hnad geture controlled mouse pointer sysytem which gets instruction in real time using your webcam and get assisted using different hand gestures for scrolling, clicking,navigating etc.
 
-### 📊 Power BI Sales Dashboard *(private project)*  
-Designed an interactive dashboard for analyzing monthly sales trends, regional performance, and customer segmentation. Applied **DAX** measures and **Power Query** transformations.
-
+### 📊 [Brute Force Image Search](https://github.com/IcodeG00D/Brute-Force)
+This project is a real-time brute force image search application that searches for related images of objects captured by a camera. It leverages computer vision techniques to find matching images from a predefined dataset.
 ---
 
 ## 🏆 Achievements & Certifications
