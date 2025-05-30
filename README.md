@@ -47,7 +47,7 @@ A passionate and curious **Developer** with a strong foundation in computer scie
 - Developed an end-to-end image captioning model using **pre-trained CNN** for image feature extraction and **LSTM** for language generation. Built with TensorFlow & Keras.
 
 ### 🗣️ [Virtual Mouse Using hand gesture](https://github.com/IcodeG00D/Virtual-Mouse-Using-Mediapipe)
-- Built a Hnad geture controlled mouse pointer sysytem which gets instruction in real time using your webcam and get assisted using different hand gestures for scrolling, clicking,navigating etc.
+- Built a Hand geture controlled mouse pointer sysytem which gets instruction in real time using your webcam and get assisted using different hand gestures for scrolling, clicking,navigating etc.
 
 ### 📊 [Object Matching with CLIP & OpenCV](https://github.com/IcodeG00D/Object-Matching-with-CLIP-OpenCV)
 - This project implements a simple object matching system using OpenCV for webcam capture and OpenAI's CLIP model for image similarity detection. The goal is to open the camera and place an object in front, and the system will return the most similar images from the dataset
