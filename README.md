@@ -49,8 +49,8 @@ A passionate and curious **Developer** with a strong foundation in computer scie
 ### 🗣️ [Virtual Mouse Using hand gesture](https://github.com/IcodeG00D/Virtual-Mouse-Using-Mediapipe)
 - Built a Hnad geture controlled mouse pointer sysytem which gets instruction in real time using your webcam and get assisted using different hand gestures for scrolling, clicking,navigating etc.
 
-### 📊 [Brute Force Image Search](https://github.com/IcodeG00D/Brute-Force)
-- This project is a real-time brute force image search application that searches for related images of objects captured by a camera. It leverages computer vision techniques to find matching images from a predefined dataset.
+### 📊 [Object Matching with CLIP & OpenCV](https://github.com/IcodeG00D/Object-Matching-with-CLIP-OpenCV)
+- This project implements a simple object matching system using OpenCV for webcam capture and OpenAI's CLIP model for image similarity detection. The goal is to open the camera feed, detect when an object from a small dataset is presented, and display the most similar image side-by-side in real time.
 
 AND MANY MORE...
 ---
