@@ -37,6 +37,9 @@ A passionate and curious **Developer** with a strong foundation in computer scie
 
 ## 📂 Featured Projects
 
+### 👨‍💻[Course Recommender Web App](https://github.com/IcodeG00D/Course-Recommendation-Web-App)
+- Course Recommendation Web App An intelligent course recommendation system that personalizes learning paths based on user interests, course completion progress, and interaction history. The app dynamically recommends relevant courses, skill-based roadmaps, and related advanced technologies to enhance user upskilling journeys.
+
 ### 🔍 [RFM Analysis - Consumer Behavior](https://github.com/IcodeG00D/RFM-Analysis-Consumer-Behavior)  
 - Segmented customers using **Recency, Frequency, and Monetary** values to optimize targeting strategies. Unlocked insights for personalized marketing and improved customer retention.
 
@@ -48,6 +51,8 @@ A passionate and curious **Developer** with a strong foundation in computer scie
 
 ### 📊 [Brute Force Image Search](https://github.com/IcodeG00D/Brute-Force)
 - This project is a real-time brute force image search application that searches for related images of objects captured by a camera. It leverages computer vision techniques to find matching images from a predefined dataset.
+
+AND MANY MORE...
 ---
 
 ## 🏆 Achievements & Certifications
