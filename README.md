@@ -38,16 +38,16 @@ A passionate and curious **Developer** with a strong foundation in computer scie
 ## 📂 Featured Projects
 
 ### 🔍 [RFM Analysis - Consumer Behavior](https://github.com/IcodeG00D/RFM-Analysis-Consumer-Behavior)  
-Segmented customers using **Recency, Frequency, and Monetary** values to optimize targeting strategies. Unlocked insights for personalized marketing and improved customer retention.
+- Segmented customers using **Recency, Frequency, and Monetary** values to optimize targeting strategies. Unlocked insights for personalized marketing and improved customer retention.
 
 ### 🖼️ [Image Captioning Using CNN & LSTM](https://github.com/IcodeG00D/Image-Captioning-Using-CNN-and-LSTM.git)  
-Developed an end-to-end image captioning model using **pre-trained CNN** for image feature extraction and **LSTM** for language generation. Built with TensorFlow & Keras.
+- Developed an end-to-end image captioning model using **pre-trained CNN** for image feature extraction and **LSTM** for language generation. Built with TensorFlow & Keras.
 
-### 🗣️ [Virtual Mouse Using hand gesture](https://github.com/IcodeG00D/Virtual-Mouse-Using-Mediapipe))  
-]Built a Hnad geture controlled mouse pointer sysytem which gets instruction in real time using your webcam and get assisted using different hand gestures for scrolling, clicking,navigating etc.
+### 🗣️ [Virtual Mouse Using hand gesture](https://github.com/IcodeG00D/Virtual-Mouse-Using-Mediapipe)
+- Built a Hnad geture controlled mouse pointer sysytem which gets instruction in real time using your webcam and get assisted using different hand gestures for scrolling, clicking,navigating etc.
 
 ### 📊 [Brute Force Image Search](https://github.com/IcodeG00D/Brute-Force)
-This project is a real-time brute force image search application that searches for related images of objects captured by a camera. It leverages computer vision techniques to find matching images from a predefined dataset.
+- This project is a real-time brute force image search application that searches for related images of objects captured by a camera. It leverages computer vision techniques to find matching images from a predefined dataset.
 ---
 
 ## 🏆 Achievements & Certifications
