@@ -37,7 +37,7 @@ teams, and solve problems to help projects succeed.
 `AWS (EC2, S3, Cloud Foundations, Security)`, `Docker`, `Git`, `Google Cloud`, `Networking`
 
 **Tools & Platforms**  
-`Jupyter Notebook`, `Google Colab`, `VS Code`, `GitHub`
+`Jupyter Notebook`, `Google Colab`, `VS Code`, `GitHub`, `Kaggle`
 
 
 ---
