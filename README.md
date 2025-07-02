@@ -2,13 +2,16 @@
 
 ## I'm Kushagra Pathak
 
-A passionate and curious **Developer** with a strong foundation in computer science, cloud technologies, and data-driven innovation. I thrive on solving real-world problems through clean code,integrating techs ,analytical thinking,Building logics, and continuous learning.
+Motivated IT professional with a solid background in computer science, software development, cloud technologies, 
+and data analysis and Machine Learning. Comfortable working with **Python, SQL, AWS, Docker, and Power BI to 
+build applications, analyze data**, and create useful solutions. Able to learn new technologies quickly, work well with 
+teams, and solve problems to help projects succeed. 
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate  
+- 🎓 Computer Science Graduate 
 - 🌐 Tech enthusiast with a knack for innovation and experimentation  
 - 🌟 Lifelong learner focused on mastering cutting-edge tools and technologies  
 - 📊 Passionate about **data analysis**, **automation**, and **AI-powered solutions**  
@@ -19,19 +22,23 @@ A passionate and curious **Developer** with a strong foundation in computer scie
 ## 🛠️ Skills & Tech Stack
 
 **Programming & Scripting**  
-`Python`, `JavaScript`, `SQL`, `Bash`, `Prompt Engineering`
+`Python`, `SQL`, `Prompt Engineering`
 
 **Data Analysis & Visualization**  
 `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Power BI`, `Excel`
 
-**Machine Learning & AI**  
-`TensorFlow`, `Scikit-learn`, `OpenCV`, `CNN`, `LSTM`
+**Machine Learning & Deep Learning**  
+`Scikit-learn`, `TensorFlow`, `CNN`, `LSTM`, `Model Evaluation`, `Feature Engineering`
+
+**Natural Language Processing (NLP)**  
+`NLTK`, `BERT`, `Text Classification`, `Tokenization`, `Embeddings`
 
 **Cloud & DevOps**  
-`AWS (Cloud Foundations, Cloud Security)`, `Docker`, `Git`, `Linux`, `Networking`, `Google Cloud`
+`AWS (EC2, S3, Cloud Foundations, Security)`, `Docker`, `Git`, `Google Cloud`, `Networking`
 
 **Tools & Platforms**  
-`Jupyter`, `VS Code`, `GitHub`, `Google Colab`, `Postman`, `Chrome Extensions`
+`Jupyter Notebook`, `Google Colab`, `VS Code`, `GitHub`
+
 
 ---
 
@@ -52,7 +59,7 @@ A passionate and curious **Developer** with a strong foundation in computer scie
 ### 📊 [Object Matching with CLIP & OpenCV](https://github.com/IcodeG00D/Object-Matching-with-CLIP-OpenCV)
 - This project implements a simple object matching system using OpenCV for webcam capture and OpenAI's CLIP model for image similarity detection. The goal is to open the camera and place an object in front, and the system will return the most similar images from the dataset
 
-AND MANY MORE...
+[AND MANY MORE...](https://github.com/IcodeG00D?tab=repositories)
 ---
 
 ## 🏆 Achievements & Certifications
@@ -85,4 +92,4 @@ AND MANY MORE...
 
 ---
 
-Thanks for visiting! Feel free to explore my repositories, and let’s connect to build impactful solutions together. 🚀
+Thanks for visiting! Feel free to explore [my repositories](https://github.com/IcodeG00D?tab=repositories), and let’s connect to build impactful solutions together. 🚀
