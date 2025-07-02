@@ -75,8 +75,8 @@ teams, and solve problems to help projects succeed.
 
 
 <p align="center">
-  <img src="85e4ae8e-3159-408d-99af-b778dc6099b7_removalai_preview.png" width="250" height="180"/>
-  <img src="2326f729-cde3-4366-a2d6-c5123f0c60af_removalai_preview.png" width="250" height="180"/>
+  <img src="85e4ae8e-3159-408d-99af-b778dc6099b7_removalai_preview.png" width="250" />
+  <img src="2326f729-cde3-4366-a2d6-c5123f0c60af_removalai_preview.png" width="250" />
   <img src="e5b28669-9cd8-4435-9a63-f0e45f263144_removalai_preview.png" width="250" height="180"/>
  
 </p>
