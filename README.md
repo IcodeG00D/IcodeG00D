@@ -72,7 +72,7 @@ teams, and solve problems to help projects succeed.
 - 🐳 **Introduction to Docker** – Google Cloud  
 - 🧪 **Pandas & NumPy Foundations** – Self-paced Projects  
 - ⚡ **Prompt Engineering for Developers** – DeepLearning.AI  
-- 📈 Delivered insights-driven dashboards and AI models for academic & freelance projects  
+![badges](85e4ae8e-3159-408d-99af-b778dc6099b7_removalai_preview.png) 
 
 
 ---
