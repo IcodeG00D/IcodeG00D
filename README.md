@@ -73,15 +73,7 @@ teams, and solve problems to help projects succeed.
 - 🧪 **Pandas & NumPy Foundations** – Self-paced Projects  
 - ⚡ **Prompt Engineering for Developers** – DeepLearning.AI  
 
-## 👨‍💻Partcipation and Involvements
 
-
-- Mr.AUGN	Amity, 2022
-- IIT KGP Techkirti	2022
-- AHAN AI/NLP Workshop	Bennett Univ 2022
-- GBU Hackathon	Gautam Buddha Univ, 2022
-- Debate,Codathon ,Robothon Gold Medal	AURA AMITY,2023
-- Grid 2.0	Flipkart, 2024
 
 <p align="center">
   <img src="85e4ae8e-3159-408d-99af-b778dc6099b7_removalai_preview.png" width="150" />
@@ -91,6 +83,15 @@ teams, and solve problems to help projects succeed.
 </p>
 
 ---
+## 👨‍💻Partcipation and Involvements
+
+
+- Mr.AUGN	Amity, 2022
+- IIT KGP Techkirti	2022
+- AHAN AI/NLP Workshop	Bennett Univ 2022
+- GBU Hackathon	Gautam Buddha Univ, 2022
+- Debate,Codathon ,Robothon Gold Medal	AURA AMITY,2023
+- Grid 2.0	Flipkart, 2024
 
 ## 🤝 Let’s Connect
 
